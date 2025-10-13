@@ -88,7 +88,7 @@ const list = computed(() => {
       <hr ma w-20 op25>
     </div>
     <div text-center op50>
-      <span op75>Site deployed with </span><a href="https://hub.nuxt.com" target="_blank">NuxtHub</a>
+      <span op75>Site deployed with </span><a href="https://www.netlify.com" target="_blank">Netlify</a>
       <br>
       <a href="https://github.com/atinux/my-pull-requests">Create your own page for contributions</a>
     </div>

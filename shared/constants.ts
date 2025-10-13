@@ -1,5 +1,5 @@
 export const logoOverrides = {
-  'lumirelle/vs-shell-format': 'https://github.com/antfu/vscode-array-index-inlay/raw/main/logn.png?raw=true',
+  'lumirelle/vs-shell-format': 'https://raw.githubusercontent.com/lumirelle/vs-shell-format/refs/heads/master/logo.png?raw=true',
 } as Record<string, string>
 
 // @unocss-include

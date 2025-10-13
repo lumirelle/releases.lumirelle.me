@@ -11,6 +11,6 @@ to = "/index.html"
 status = 200
 
 [[redirects]]
-from = "https://release.antfu.me/*"
-to = "https://releases.antfu.me/:splat"
+from = "https://release.lumirelle.me/*"
+to = "https://releases.lumirelle.me/:splat"
 status = 302

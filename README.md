@@ -1,6 +1,6 @@
-# [releases.antfu.me](https://releases.antfu.me)
+# [releases.lumirelle.me](https://releases.lumirelle.me)
 
-A page for Anthony's recent releases.
+A page for Lumirelle's recent releases.
 
 Deployed via [NuxtHub](https://hub.nuxt.com)
 
@@ -8,6 +8,7 @@ You can fork it to create your own version, or [use this template to deploy a pa
 
 ## Forks/Variants
 
+- [Anthony's releases](https://releases.antfu.me/)
 - [Sébastien Chopin's contributions](https://prs.atinux.com/)
 - [Leon Fong's contributions](https://pr.leonfong.me/)
 

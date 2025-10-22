@@ -1,10 +1,13 @@
 {
+  // cspell:disable
   "recommendations": [
+    "antfu.goto-alias",
     "antfu.iconify",
     "antfu.unocss",
-    "antfu.goto-alias",
-    "csstools.postcss",
     "dbaeumer.vscode-eslint",
+    "editorconfig.editorconfig",
+    "jgclark.vscode-todo-highlight",
+    "lokalise.i18n-ally",
     "vue.volar"
   ]
 }

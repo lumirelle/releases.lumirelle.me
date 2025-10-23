@@ -1,3 +1,6 @@
+patchedDependencies:
+  sax@1.4.1: patches/sax@1.4.1.patch
+
 onlyBuiltDependencies:
   - '@parcel/watcher'
   - esbuild
